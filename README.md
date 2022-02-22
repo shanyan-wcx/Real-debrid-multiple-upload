@@ -13,8 +13,9 @@ Upload multiple torrents simultaneously on real-debrid
     ]
 }
 ```
-Fill in the **API token** of your real debrid in **apitoken**. If you don't have an **API token**, please go to [https://real-debrid.com/apitoken](https://real-debrid.com/apitoken) to get it. Then fill in the **extname** with the **file type** you want to select, separated by "**,**". Make sure there are no errors and close **config.json** after saving.</br>
-4. Put the **torrents** you want to upload into the **torrents** folder.</br>
+Fill in the **API token** of your real debrid in **apitoken**. If you don't have an **API token**, please go to [https://real-debrid.com/apitoken](https://real-debrid.com/apitoken) to get it. Then fill in the **extname** with the **file type** you want to select, separated by "**,**". Make sure there are no errors and close **config.json** after saving.
+
+4. Put the **torrents** you want to upload into the **torrents** folder.
 5. Open the **terminal** in this folder and run the following command:
 ```
 npm i
