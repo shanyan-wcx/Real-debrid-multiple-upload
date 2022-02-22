@@ -1,0 +1,15 @@
+{
+  "name": "real-debird",
+  "version": "1.0.0",
+  "description": "Upload multiple torrents simultaneously on real debrid.",
+  "main": "real-debrid.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "real-debrid-api": "^1.0.1"
+  }
+}
