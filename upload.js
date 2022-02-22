@@ -35,7 +35,7 @@ async function uploadTorrents(torrent) {
             }
         }
         await RD.torrents.selectFiles(upload.id, files, 1)
-        console.log('Upload succeeded')
+        console.log('Upload successful')
     } catch (error) {
         console.log('Upload failed')
         console.log(error)
