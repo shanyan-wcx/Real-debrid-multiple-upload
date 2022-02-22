@@ -1,5 +1,5 @@
 # Real-debrid-multiple-upload
-Upload multiple torrents simultaneously on real debrid
+Upload multiple torrents simultaneously on real-debrid
 ## How to use
 1. Make sure that **node.js** is installed on your machine. If not, please go to [https://nodejs.org](https://nodejs.org) to install the latest version.
 2. Click **Download ZIP**, download the repository and unzip it.
